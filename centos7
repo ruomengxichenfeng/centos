@@ -1,1 +1,2 @@
 systemctl stop firewalld.service
+systemctl enable firewalld
